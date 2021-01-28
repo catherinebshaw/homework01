@@ -18,4 +18,7 @@ In the CSS file, I expanded the main elements of body, h1, h2 and h3 for simplic
 
  I took a small liberty and repeated the play on SEO in the company name in the footer. It will be simple to remove if needed. 
 
-In completing this task, I used references on semantics, accessiblity and CSS cascading and inheritance from www.W3schools.com. I also benefitted from the direction of our instructor Fil and team-mates Shiva and Max who helped guide me through creating and loading the repository on GitHub.   
+In completing this task, I used references on semantics, accessiblity and CSS cascading and inheritance from www.W3schools.com. I also benefitted from the direction of our instructor Fil and team-mates Shiva and Max who helped guide me through creating and loading the repository on GitHub. 
+
+## Final Product
+![Alt text](https://github.com/catherinebshaw/homework01/blob/main/assets/images/Screen%20Shot%202021-01-28%20at%202.50.39%20PM.png)
